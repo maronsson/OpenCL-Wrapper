@@ -25,6 +25,8 @@ int main() {
 
 	print_info("Value after kernel execution: C[0] = "+to_string(C[0]));
 
+	print_info("Press any key to exit :-)");
 	wait();
+
 	return 0;
 }
